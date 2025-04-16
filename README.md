@@ -1,3 +1,6 @@
+![WhatsApp Image 2025-04-16 at 4 08 31 PM](https://github.com/user-attachments/assets/c53f8321-68be-4d8f-9fda-9602f8c5219c)
+
+
 # Funciones de dos variables
 
 Una función de dos variables  $z=f(x,y)$ aplica cada par ordenado  $(x,y)$ en un subconjunto  $D$
@@ -45,4 +48,8 @@ ax.set_title('Superficie 3D')
 plt.show()
 ```
 ![Gráfico en 3D](https://github.com/user-attachments/assets/f2c8bc35-b31d-49b1-b405-a7588f48355c)
+
+También puede revisar el video en Youtube:  
+
+https://www.youtube.com/watch?v=pPmFVTYCliM&t=527s
 
