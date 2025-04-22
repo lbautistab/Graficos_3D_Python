@@ -13,7 +13,7 @@ Gráficar la siguiente función: $Z(X, Y) = \frac{\sin\left(\sqrt{X^2 + Y^2}\rig
 
 ## **Solución:**
 
-```
+```bash
 # Importando las librerias necesarias
 import matplotlib.pyplot as plt
 import numpy as np
